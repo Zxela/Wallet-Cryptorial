@@ -18,6 +18,6 @@ cd ../server && npm install
 npm start  
 
 Open a new terminal    
-cd ../client && npm start  
+cd Wallet-Cryptorial/client && npm start  
 
 Browser should automatically open to localhost:8080
